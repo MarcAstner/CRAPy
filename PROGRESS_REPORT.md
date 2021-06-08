@@ -28,6 +28,7 @@
 
 #### Xavier:
 - Brainstroming for autopilot solutions
+- Figuring out the code written by the previous groups
 - Research of different autopilot solutions (ardupilot, dronekit, autopilot hardware)
 
 ## Progress: Tuesday 08 June, 2021
