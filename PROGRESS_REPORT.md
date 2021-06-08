@@ -19,7 +19,8 @@
 
 #### Timon: 
 
-#### Xavier:
+#### Xavier: -Brainstroming for autopilot solutions 
+- Research o different autopilot solutions
 
 ## Progress: Tuesday 08 June, 2021
 
