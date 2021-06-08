@@ -42,8 +42,8 @@
 #### Timon: 
 
 #### Xavier:
-- Continuing research for autopilot solutions (focusing on pixhawk or Navio as a flight controller, with ROS and Ardupilot) 
-- Testing light sensor and Humidity/Pressure/Temp sensor
+- Continuing research for autopilot solutions, focusing on pixhawk or Navio as a flight controller (+finding a seller that doesnt ship from China), with ROS and Ardupilot) 
+- Testing light sensor and Humidity/Pressure/Temp sensor with Gabe and Chris
 ## Progress: Wednesday 09 June, 2021
 
 #### Chris:
