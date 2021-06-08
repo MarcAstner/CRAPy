@@ -21,6 +21,8 @@
 #### Lucas:
 
 #### Marc:
+-showed current state of the rover
+-looked at flask/html tutorials
 
 #### Milan:
 
@@ -46,6 +48,8 @@ First Chris detached all the sensors while I researched their specifications. Th
 #### Lucas:
 
 #### Marc:
+- setup github; enabled progress report & invited contributors
+- flashing the pi and figurring out connection with other devices
 
 #### Milan:
 
