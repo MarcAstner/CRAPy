@@ -7,27 +7,12 @@
 
 #### Gabriel:
 
-#### Justus:
-
-#### Linus:
-
-#### Lucas:
-
-#### Marc:
-
-#### Milan:
-
-#### Timon: 
-
-#### Xavier: 
-- Brainstroming for autopilot solutions 
-- Research of different autopilot solutions (ardupilot, dronekit, autopilot hardware)
-
-## Progress: Tuesday 08 June, 2021
-
-#### Chris:
-
-#### Gabriel:
+- Get to know the team and the rover
+- brainstormed about solar panel attachment
+- start figuring out the wiring of the rover
+- changing broken parts
+- melting screholders into plastic parts
+- re-attach loose tyres
 
 #### Justus:
 
@@ -42,8 +27,29 @@
 #### Timon: 
 
 #### Xavier:
-- Continuing research for autopilot solutions, focusing on pixhawk or Navio as a flight controller (+finding a seller that doesnt ship from China), with ROS and Ardupilot) 
-- Testing light sensor and Humidity/Pressure/Temp sensor with Gabe and Chris
+
+## Progress: Tuesday 08 June, 2021
+
+#### Chris:
+
+#### Gabriel:
+
+First Chris detached all the sensors while I researched their specifications. Then started testing all the sensors with the Arduino. LDR missing for light sensors, pressure, temp and altitude sensor working. need 10k resistor for humidity sensor, GPS code works -> have to solder the antenna and make sure it works. Went to the electronics store twice.
+
+#### Justus:
+
+#### Linus:
+
+#### Lucas:
+
+#### Marc:
+
+#### Milan:
+
+#### Timon: 
+
+#### Xavier:
+
 ## Progress: Wednesday 09 June, 2021
 
 #### Chris:
