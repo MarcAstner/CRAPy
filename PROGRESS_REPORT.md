@@ -21,8 +21,8 @@
 #### Lucas:
 
 #### Marc:
--showed current state of the rover
--looked at flask/html tutorials
+- showed current state of the rover
+- looked at flask/html tutorials
 
 #### Milan:
 
