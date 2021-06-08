@@ -6,61 +6,51 @@ The **Controlable Rover Automation Project (CRAPy)** is project is built on the 
 
 ## Table of Content
 
-[**Daily Report - 04/01/2021 : Monday 04 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-monday-04-january-2021)
+[**Daily Report - 07/06/2021 : Monday 07 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-monday-07-june-2021)
 
-[**Daily Report - 05/01/2021 : Tuesday 05 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-tuesday-05-january-2021)
+[**Daily Report - 08/06/2021 : Tuesday 08 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-tuesday-08-june-2021)
 
-[**Daily Report - 06/01/2021 : Wednesday 06 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-wednesday-06-january-2021)
+[**Daily Report - 09/06/2021 : Wednesday 09 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-wednesday-09-june-2021)
 
-[**Daily Report - 07/01/2021 : Thursday 07 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-thursday-07-january-2021)
+[**Daily Report - 10/06/2021 : Thursday 10 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-thursday-10-june-2021)
 
-[**Daily Report - 08/01/2021 : Friday 08 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-friday-08-january-2021)
+[**Daily Report - 11/06/2021 : Friday 11 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-friday-11-june-2021)
 
-[**Daily Report - 09/01/2021 : Saturday 09 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-saturday-09-january-2021)
+[**Daily Report - 12/06/2021 : Saturday 12 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-saturday-12-june-2021)
 
-[**Daily Report - 10/01/2021 : Sunday 10 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-sunday-10-january-2021)
+[**Daily Report - 13/06/2021 : Sunday 13 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-sunday-13-june-2021)
 
-[**Daily Report - 11/01/2021 : Monday 11 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-monday-11-january-2021)
+[**Daily Report - 14/06/2021 : Monday 14 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-monday-14-june-2021)
 
-[**Daily Report - 12/01/2021 : Tuesday 12 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-tuesday-12-january-2021)
+[**Daily Report - 15/06/2021 : Tuesday 15 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-tuesday-15-june-2021)
 
-[**Daily Report - 13/01/2021 : Wednesday 13 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-wednesday-13-january-2021)
+[**Daily Report - 16/06/2021 : Wednesday 16 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-wednesday-16-june-2021)
 
-[**Daily Report - 14/01/2021 : Thursday 14 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-thursday-14-january-2021)
+[**Daily Report - 17/06/2021 : Thursday 17 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-thursday-17-june-2021)
 
-[**Daily Report - 15/01/2021 : Friday 15 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-friday-15-january-2021)
+[**Daily Report - 18/06/2021 : Friday 18 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-friday-18-june-2021)
 
-[**Daily Report - 16/01/2021 : Saturday 16 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-saturday-16-january-2021)
+[**Daily Report - 19/06/2021 : Saturday 19 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-saturday-19-june-2021)
 
-[**Daily Report - 17/01/2021 : Sunday 17 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-sunday-17-january-2021)
+[**Daily Report - 20/06/2021 : Sunday 20 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-sunday-20-june-2021)
 
-[**Daily Report - 18/01/2021 : Monday 18 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-monday-18-january-2021)
+[**Daily Report - 21/06/2021 : Monday 21 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-monday-21-june-2021)
 
-[**Daily Report - 19/01/2021 : Tuesday 19 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-tuesday-19-january-2021)
+[**Daily Report - 22/06/2021 : Tuesday 22 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-tuesday-22-june-2021)
 
-[**Daily Report - 20/01/2021 : Wednesday 20 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-wednesday-20-january-2021)
+[**Daily Report - 23/06/2021 : Wednesday 23 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-wednesday-23-june-2021)
 
-[**Daily Report - 21/01/2021 : Thursday 21 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-thursday-21-january-2021)
+[**Daily Report - 24/06/2021 : Thursday 24 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-thursday-24-june-2021)
 
-[**Daily Report - 22/01/2021 : Friday 22 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-friday-22-january-2021)
+[**Daily Report - 25/06/2021 : Friday 25 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-friday-25-june-2021)
 
-[**Daily Report - 23/01/2021 : Saturday 23 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-saturday-23-january-2021)
+[**Daily Report - 26/06/2021 : Saturday 26 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-saturday-26-june-2021)
 
-[**Daily Report - 24/01/2021 : Sunday 24 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-sunday-24-january-2021)
+[**Daily Report - 27/06/2021 : Sunday 27 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-sunday-27-june-2021)
 
-[**Daily Report - 25/01/2021 : Monday 25 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-monday-25-january-2021)
+[**Daily Report - 28/06/2021 : Monday 28 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-monday-28-june-2021)
 
-[**Daily Report - 26/01/2021 : Tuesday 26 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-tuesday-26-january-2021)
+[**Daily Report - 29/06/2021 : Tuesday 29 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-tuesday-29-june-2021)
 
-[**Daily Report - 27/01/2021 : Wednesday 27 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-wednesday-27-january-2021)
-
-[**Daily Report - 28/01/2021 : Thursday 28 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-thursday-28-january-2021)
-
-[**Daily Report - 29/01/2021 : Friday 29 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-friday-29-january-2021)
-
-[**Daily Report - 30/01/2021 : Saturday 30 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-saturday-30-january-2021)
-
-[**Daily Report - 31/01/2021 : Sunday 31 January, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-sunday-31-january-2021)
-
-[**Daily Report - 01/02/2021 : Monday 01 February, 2021**](https://github.com/Jonastjep/CRAPy/blob/master/ProgressReport_CRAPy.md#progress-monday-01-february-2021)
+[**Daily Report - 30/06/2021 : Wednesday 30 June, 2021**](https://github.com/MarcAstner/CRAPy/blob/master/PROGRESS_REPORT.md#progress-wednesday-30-june-2021)
 
