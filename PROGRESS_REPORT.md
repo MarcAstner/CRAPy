@@ -74,6 +74,15 @@ First Chris detached all the sensors while I researched their specifications. Th
 
 #### Gabriel:
 
+Got the following sensors to work with Chris:
+  - MH FLyinh Fish sensor to work with both the LDR and the soil moisture sensor
+  - BMP280 for pressure, temperature and altitude
+  - MQ2 Gas detection sensor
+  - HC-SR04 Ultrasound distance sensor
+  - AMG8833 Infrared Heat sensor
+
+Wrote unified script for operating all the sensors from the Arduino
+
 #### Justus:
 
 #### Linus:
