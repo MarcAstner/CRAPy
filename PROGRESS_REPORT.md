@@ -4,6 +4,12 @@
 ## Progress: Monday 07 June, 2021
 
 #### Chris:
+- Familierized myself with the rover and the team
+- layed out goals for the project
+- brainstormed ideas for the rotating solar panel
+- split up into groups to tackle individual problems
+- lost my soldering virginity!
+- analyized rover electronic components and wiring
 
 #### Gabriel:
 
@@ -36,7 +42,9 @@
 ## Progress: Tuesday 08 June, 2021
 
 #### Chris:
-
+- deatached all the wires from the sensors and the breadboard
+- bought wires and breadboard at the electronics store
+- tested the sensors and saw how they connected to the arduino while gabe found the code that went along with them
 #### Gabriel:
 
 First Chris detached all the sensors while I researched their specifications. Then started testing all the sensors with the Arduino. LDR missing for light sensors, pressure, temp and altitude sensor working. need 10k resistor for humidity sensor, GPS code works -> have to solder the antenna and make sure it works. Went to the electronics store twice.
