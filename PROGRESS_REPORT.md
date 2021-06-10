@@ -36,6 +36,10 @@
 #### Milan:
 
 #### Timon: 
+- Set up Fusion360 team and upload the rover designs that have been made so far
+- Print stuff
+- Show stuff about the rover and answer questions
+
 
 #### Xavier:
 - Brainstroming for autopilot solutions
@@ -67,6 +71,10 @@ First Chris detached all the sensors while I researched their specifications. Th
 #### Milan:
 
 #### Timon: 
+- redesign front untrasound holder
+- modify sensor tower bracket that attaches to the chassis
+- print more stuff
+
 
 #### Xavier:
 - Continuing research for autopilot solutions, focusing on pixhawk or Navio as a flight controller (+finding a seller that doesnt ship from China), with ROS and Ardupilot)
@@ -101,6 +109,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Milan:
 
 #### Timon: 
+- Find more things that we need to order as one order takes ages
+- provide input for the solar panel bracket
+- get a bunch of 2.5mm allen keys
 
 #### Xavier:
 
