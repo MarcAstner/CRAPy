@@ -121,6 +121,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - get a bunch of 2.5mm allen keys
 
 #### Xavier:
+- Dropped the pixhawk flght controller in favor of an imu sensor to perform slam with ros athe the raspberry
+- Got walked through Jonas' code by Linus
 
 ## Progress: Thursday 10 June, 2021
 
@@ -142,6 +144,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 
 #### Xavier:
+- Sarted modifying Jonas' algorithm with Linus (changing the sensors in the simulation to give a distance input rather than a boolean)
+- Installed a dual boot on my PC to be able to run Ubuntu with ROS and test the Lidar
 
 ## Progress: Friday 11 June, 2021
 
