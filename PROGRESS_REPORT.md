@@ -23,6 +23,9 @@
 #### Justus:
 
 #### Linus:
+- Get to know the team and the rover
+- brainstorming about possible future software advancements 
+- started considering alternative solutions for the autopilot
 
 #### Lucas:
 
@@ -52,6 +55,8 @@ First Chris detached all the sensors while I researched their specifications. Th
 #### Justus:
 
 #### Linus:
+ - Looked into the software part of alternative autopilots but decided again them in the end 
+ - started to look into the AI code
 
 #### Lucas:
 
@@ -86,6 +91,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Justus:
 
 #### Linus:
+- Worked myself through Jonas' AI code
+- Got the simulation running again
 
 #### Lucas:
 
@@ -106,6 +113,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Justus:
 
 #### Linus:
+- Comunicated with Jonas about the code, the problems and solutions for the AI
 
 #### Lucas:
 
