@@ -34,6 +34,8 @@
 - looked at flask/html tutorials
 
 #### Milan:
+- brainstorming solution for the solarpanel mount
+- getting to know fusion 360 a bit
 
 #### Timon: 
 - Set up Fusion360 team and upload the rover designs that have been made so far
@@ -69,6 +71,8 @@ First Chris detached all the sensors while I researched their specifications. Th
 - flashing the pi and figurring out connection with other devices
 
 #### Milan:
+- reading up on gearing systems and further playing around with fusion
+- starting to design the attachment holders between the solar panel and its mount
 
 #### Timon: 
 - redesign front untrasound holder
@@ -107,6 +111,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
+- finished designing the attachment holders and started on the gear design for the solar panel mount
+- lost all my projects due to fusion crashing
+- starting over with what i did yesterday
 
 #### Timon: 
 - Find more things that we need to order as one order takes ages
