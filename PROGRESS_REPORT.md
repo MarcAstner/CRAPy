@@ -121,7 +121,7 @@ Wrote unified script for operating all the sensors from the Arduino
 - get a bunch of 2.5mm allen keys
 
 #### Xavier:
-- Dropped the pixhawk flght controller in favor of an imu sensor to perform slam with ros athe the raspberry
+- Dropped the pixhawk flght controller in favor of an imu sensor to perform slam with ros, Lidar, the ultrasound sensors and the the raspberry
 - Got walked through Jonas' code by Linus
 
 ## Progress: Thursday 10 June, 2021
