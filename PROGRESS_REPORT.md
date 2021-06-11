@@ -129,6 +129,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- tested the Arduino with all the sensors connected with an external power source
+- ran into some issues with that, Multimeter was damaged from first day, had to replace the fuse
+- started finding solutions for the circuit design to reduce current but still supply all the sensors with enough power
 
 #### Justus:
 
