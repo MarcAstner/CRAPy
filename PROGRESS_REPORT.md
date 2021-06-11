@@ -164,6 +164,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- got the sensors to be powered by the rover battery while in a parallel circuit - some are broken, sent list of parts to Timon
+- discussed about sensor placement and design for a chassis
+- probably going to solder the sensors to a board
 
 #### Justus:
 
