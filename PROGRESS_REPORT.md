@@ -28,7 +28,10 @@
 - started considering alternative solutions for the autopilot
 
 #### Lucas:
-
+- Familiarized myself with the team and rover 
+- Brainstormed potential rover parts that may new reprinting/reworking as well as new functional parts
+- Downloaded fusion360
+- Starting sketching solar pannel support part
 #### Marc:
 - showed current state of the rover
 - looked at flask/html tutorials
@@ -65,6 +68,8 @@ First Chris detached all the sensors while I researched their specifications. Th
  - started to look into the AI code
 
 #### Lucas:
+- Tested the solar pannel and measured its dimensions
+- Started designing the solar panel bracket within Fusion360
 
 #### Marc:
 - setup github; enabled progress report & invited contributors
@@ -107,6 +112,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - Got the simulation running again
 
 #### Lucas:
+- Further improved the first prototype of the solar panel bracket, especially the implementation of the first rotation mechanism with the rotor/ball bearing
+- Discussed cryptocurrencies and how they will takeover the world
 
 #### Marc:
 
@@ -139,6 +146,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - Comunicated with Jonas about the code, the problems and solutions for the AI
 
 #### Lucas:
+- First print of the solar panel bracket
+- Evaluated issues with the first print as well as potential solutions improving the design 
 
 #### Marc:
 
@@ -161,6 +170,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 
 #### Lucas:
+- Tweaked the design of the inital solar panel bracket
+- Worked more on the rotating axis of the bracket joint
 
 #### Marc:
 
