@@ -152,6 +152,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
+- started brainstorming a sample box for the rover
+- had a look at the previous one and collected data of the servo and the rover
 
 #### Timon: 
 
@@ -179,6 +181,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
+- designed the entire sample box in fusion 360
+- edited some small things in order to make it 3d printable
+- designed 5 different gear cutouts for sample printing to see which clearance fits onto the servo
 
 #### Timon: 
 
@@ -199,7 +204,11 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
-
+- brainstormed ideas to integrade a hygrometer in the sample box
+- looked up the dimensions of the one that is already there
+- designed some cut outs in the smaple box which will fit the sensor and cabeling
+- design of the sample box almost completely finished
+- 
 #### Timon: 
 
 #### Xavier:
