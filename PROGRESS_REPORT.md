@@ -156,7 +156,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - had a look at the previous one and collected data of the servo and the rover
 
 #### Timon: 
-
+- do some troubleshooting as the printer is heavily underextruding
+- print more things
+- 
 #### Xavier:
 - Sarted modifying Jonas' algorithm with Linus (changing the sensors in the simulation to give a distance input rather than a boolean)
 - Installed a dual boot on my PC to be able to run Ubuntu with ROS and test the Lidar
@@ -186,7 +188,12 @@ Wrote unified script for operating all the sensors from the Arduino
 - designed 5 different gear cutouts for sample printing to see which clearance fits onto the servo
 
 #### Timon: 
-
+- redesign second arm of the robot arm
+- transfering info to milan for designing the sample box
+- talking through milans design with him
+- help with electronics
+- help with the solar tilt mechanism 
+- think about how the second tilting mechanism could be built & take some measurements on build volume and desired tilt angle
 #### Xavier:
 
 ## Progress: Saturday 12 June, 2021
@@ -210,7 +217,7 @@ Wrote unified script for operating all the sensors from the Arduino
 - design of the sample box almost completely finished
 - 
 #### Timon: 
-
+-print stuff
 #### Xavier:
 
 ## Progress: Sunday 13 June, 2021
@@ -230,7 +237,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Milan:
 
 #### Timon: 
-
+- print a lot more prototypes and other things
+- picking up motors for testing
 #### Xavier:
 
 ## Progress: Monday 14 June, 2021
