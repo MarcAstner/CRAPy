@@ -116,6 +116,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - Discussed cryptocurrencies and how they will takeover the world
 
 #### Marc:
+- tried flashing Raspberry Pi --> installations did not work(very frustrating)
+- reflashed many more times
 
 #### Milan:
 - finished designing the attachment holders and started on the gear design for the solar panel mount
@@ -125,7 +127,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 - Find more things that we need to order as one order takes ages
 - provide input for the solar panel bracket
-- get a bunch of 2.5mm allen keys
+- got a bunch of 2.5mm allen keys
 
 #### Xavier:
 - Dropped the pixhawk flght controller in favor of an imu sensor to perform slam with ros, Lidar, the ultrasound sensors and the the raspberry
@@ -151,6 +153,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - Evaluated issues with the first print as well as potential solutions improving the design 
 
 #### Marc:
+- looked at many videos regarding raspberry pi setup
+- started looking into sqlite
 
 #### Milan:
 - started brainstorming a sample box for the rover
@@ -159,9 +163,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 - do some troubleshooting as the printer is heavily underextruding
 - print more things
-- 
+
 #### Xavier:
-- Sarted modifying Jonas' algorithm with Linus (changing the sensors in the simulation to give a distance input rather than a boolean)
+- Started modifying Jonas' algorithm with Linus (changing the sensors in the simulation to give a distance input rather than a boolean)
 - Installed a dual boot on my PC to be able to run Ubuntu with ROS and test the Lidar
 
 ## Progress: Friday 11 June, 2021
@@ -185,6 +189,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - Worked more on the rotating axis of the bracket joint
 
 #### Marc:
+- finally made the raspberry pi work again :V also the webserver works aswell
+- connected the infrared camera to the pi and ran some experiements on the live stream and interpolation 
 
 #### Milan:
 - designed the entire sample box in fusion 360
@@ -198,6 +204,7 @@ Wrote unified script for operating all the sensors from the Arduino
 - help with electronics
 - help with the solar tilt mechanism 
 - think about how the second tilting mechanism could be built & take some measurements on build volume and desired tilt angle
+
 #### Xavier:
 
 ## Progress: Saturday 12 June, 2021
@@ -213,15 +220,17 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Lucas:
 
 #### Marc:
+- St.Pieters and chill
 
 #### Milan:
 - brainstormed ideas to integrade a hygrometer in the sample box
 - looked up the dimensions of the one that is already there
 - designed some cut outs in the smaple box which will fit the sensor and cabeling
 - design of the sample box almost completely finished
-- 
+
 #### Timon: 
--print stuff
+- print stuff
+
 #### Xavier:
 
 ## Progress: Sunday 13 June, 2021
@@ -239,6 +248,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Lucas:
 
 #### Marc:
+- read my book in the park
 
 #### Milan:
 
@@ -261,10 +271,11 @@ Wrote unified script for operating all the sensors from the Arduino
 - Now the rover is actually pretty decent at avoiding objects - implementing the sensor range once again sounds promissing 
 
 #### Lucas:
-- Fitted the first part of solar panel support to the panel
-- Worked on the moving axis of the support/ will look into to gears of the second motor tomorrow
 
-#### Marc:
+#### Marc: 
+- looked more into interpolation; tried higher resolution for the camera --> pi overheated
+- looked into lidar connection 
+- set up report on google docs
 
 #### Milan:
 
