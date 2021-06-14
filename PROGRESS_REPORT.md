@@ -116,7 +116,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - Discussed cryptocurrencies and how they will takeover the world
 
 #### Marc:
-- tried flashing Raspberry Pi --> installations did not work(very frustrating)
+- got a screen and installed a hardware setup for the pi
+- tried flashing Raspberry Pi again --> installations did not work(very frustrating)
 - reflashed many more times
 
 #### Milan:
