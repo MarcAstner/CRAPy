@@ -144,6 +144,7 @@ Wrote unified script for operating all the sensors from the Arduino
 
 #### Linus:
 - Comunicated with Jonas about the code, the problems and solutions for the AI
+- Added a sensor range input for the simulated rover
 
 #### Lucas:
 - First print of the solar panel bracket
@@ -175,6 +176,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Justus:
 
 #### Linus:
+- Experimented with different mutationRate functions
+- Added a new select function 
+- Worked on the fitness function
 
 #### Lucas:
 - Tweaked the design of the inital solar panel bracket
@@ -229,6 +233,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Justus:
 
 #### Linus:
+- Digged into literature to learn how neat algorithms are applied in professional autopilots 
+- Looked into genetic encoding on ANNs
 
 #### Lucas:
 
@@ -250,6 +256,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Justus:
 
 #### Linus:
+- Now the rover gets punished for rotating over and over 
+- Also removed any random factors from the starting position of the rover in order to reduce luck from which rover is chosen 
+- Now the rover is actually pretty decent at avoiding objects - implementing the sensor range once again sounds promissing 
 
 #### Lucas:
 
