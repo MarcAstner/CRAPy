@@ -261,6 +261,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - Now the rover is actually pretty decent at avoiding objects - implementing the sensor range once again sounds promissing 
 
 #### Lucas:
+- Fitted the first part of solar panel support to the panel
+- Worked on the moving axis of the support/ will look into to gears of the second motor tomorrow
 
 #### Marc:
 
