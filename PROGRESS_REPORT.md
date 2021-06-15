@@ -263,6 +263,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- got an overview of what the solar people have been working on 
+- brainstormed on the integration of sensors in the sample box
+- put together a concept for a circuit to harness the power from the solar panel
 
 #### Justus:
 
