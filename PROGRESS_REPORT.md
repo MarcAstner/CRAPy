@@ -283,6 +283,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - set up report on google docs
 
 #### Milan:
+- designed a gear and rack system to slide the sensor in and out of the sample box
+- continued designing the sample box in fusion. 
+- started 3d printing some samples
 
 #### Timon: 
 
