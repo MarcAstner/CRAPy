@@ -207,6 +207,7 @@ Wrote unified script for operating all the sensors from the Arduino
 - think about how the second tilting mechanism could be built & take some measurements on build volume and desired tilt angle
 
 #### Xavier:
+- Installed ros on my computer and tried to test out the LIDAR
 
 ## Progress: Saturday 12 June, 2021
 
@@ -285,7 +286,8 @@ Wrote unified script for operating all the sensors from the Arduino
 
 #### Timon: 
 
-#### Xavier:
+#### Xavier: 
+- worked on ai with linus (cf. linus bulletpoints).
 
 ## Progress: Tuesday 15 June, 2021
 
