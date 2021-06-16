@@ -320,6 +320,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- as the sensors had not yet arrived, I started working on the report
+- wrote an introduction, the start of the methods section and started on the sensors & circuitry part of the report
 
 #### Justus:
 
