@@ -297,6 +297,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- sent Timon list of necessary parts to order for building the circuit that harnesses the solar energy
+- built and tested the 2-servo solar tracking circuit with Justus
+- confirmed with Milan and Lucas (Fusion 360) that we would work closely together to design the sensor tray
 
 #### Justus:
 
