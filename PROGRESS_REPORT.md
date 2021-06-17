@@ -372,6 +372,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Justus:
 -fusion for LDR attachemetn bracket, finished
 -measuring all the points for existing solar panel brackets to make it accurate and ready to print
+- outline for work on paper
 
 #### Linus:
 
