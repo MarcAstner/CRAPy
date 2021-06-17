@@ -400,6 +400,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - soldered some things for mark and xavier
 
 #### Gabriel:
+- integrated new sensors into the circuit and adjusted arduino output to be easily readable and processable by the Raspberry
+- brainstormed about the sensor arrangement with Chris
+- designed and finished circuit diagram for the sensors
 
 #### Justus:
 -fusion for LDR attachemetn bracket, finished
