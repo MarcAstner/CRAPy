@@ -408,6 +408,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 - Implemented exploration trade for rovers 
 - Cleaned up the code - looking to have a first good version by beginning of next week 
+- Reworked the simulation and added real dimensions of the rover
+- forced left right motion 
 
 #### Lucas:
 
