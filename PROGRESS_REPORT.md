@@ -21,6 +21,10 @@
 - re-attach loose tyres
 
 #### Justus:
+- learn abour the team
+- learn about he rover and its functions
+- work out the solar tracking solar panel attachement
+- work out how to attach the solar panel to the rover
 
 #### Linus:
 - Get to know the team and the rover
@@ -62,6 +66,10 @@
 First Chris detached all the sensors while I researched their specifications. Then started testing all the sensors with the Arduino. LDR missing for light sensors, pressure, temp and altitude sensor working. need 10k resistor for humidity sensor, GPS code works -> have to solder the antenna and make sure it works. Went to the electronics store twice.
 
 #### Justus:
+- Testing on the solar panel, output, power, etc.
+- looked into some of the possible ai UI and possible app
+- research solar tracking mod
+- work on rasberry pi
 
 #### Linus:
  - Looked into the software part of alternative autopilots but decided again them in the end 
@@ -105,7 +113,11 @@ Got the following sensors to work with Chris:
 
 Wrote unified script for operating all the sensors from the Arduino
 
-#### Justus:
+#### Justus: 
+-research into solar panel tracking etc.
+-solar movement mechanism
+- make list of needed parts for tracking sun
+-work on flashing rasberry
 
 #### Linus:
 - Worked myself through Jonas' AI code
@@ -144,6 +156,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - started finding solutions for the circuit design to reduce current but still supply all the sensors with enough power
 
 #### Justus:
+-worked from home 
+-worked on curcuit diagram for solar tracking system
+-worked on code for arduino solar tracker
 
 #### Linus:
 - Comunicated with Jonas about the code, the problems and solutions for the AI
@@ -179,6 +194,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - probably going to solder the sensors to a board
 
 #### Justus:
+- finished code for solar aduino
+- cheched and finished solar tracking curcuit diagram
 
 #### Linus:
 - Experimented with different mutationRate functions
@@ -269,6 +286,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - put together a concept for a circuit to harness the power from the solar panel
 
 #### Justus:
+-some 3d printing (solar panel bracket attachement tool)
+- started work with arduino that has now arrived
+- testing components of solar trackign circuit
 
 #### Linus:
 - Now the rover gets punished for rotating over and over 
@@ -302,6 +322,10 @@ Wrote unified script for operating all the sensors from the Arduino
 - confirmed with Milan and Lucas (Fusion 360) that we would work closely together to design the sensor tray
 
 #### Justus:
+-soldering solar tracking circuit with arduino
+-putting code on arduino
+-testing solar tracking system put together
+-some 3d printing
 
 #### Linus:
 
@@ -323,7 +347,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - as the sensors had not yet arrived, I started working on the report
 - wrote an introduction, the start of the methods section and started on the sensors & circuitry part of the report
 
-#### Justus:
+#### Justus: 
+-worked from home, brainstorm on how to attach the LDR for solar trackign to the solar panel
+-started in fusion with LDR attachement bracket
 
 #### Linus:
 
@@ -344,6 +370,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Gabriel:
 
 #### Justus:
+-fusion for LDR attachemetn bracket, finished
+-measuring all the points for existing solar panel brackets to make it accurate and ready to print
 
 #### Linus:
 
