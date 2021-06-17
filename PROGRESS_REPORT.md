@@ -353,6 +353,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 - Debugged the sensor range implementation from last week 
 - reworked the network decisions and inputs
+- implemented speed control
 
 #### Lucas:
 
