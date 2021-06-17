@@ -101,6 +101,14 @@ First Chris detached all the sensors while I researched their specifications. Th
 ## Progress: Wednesday 09 June, 2021
 
 #### Chris:
+ Got the following sensors to work with Gabe:
+  - MH FLyinh Fish sensor to work with both the LDR and the soil moisture sensor
+  - BMP280 for pressure, temperature and altitude
+  - MQ2 Gas detection sensor
+  - HC-SR04 Ultrasound distance sensor
+  - AMG8833 Infrared Heat sensor
+
+worked on wiring the whole system together and connecting to a singular power source
 
 #### Gabriel:
 
@@ -149,6 +157,10 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Thursday 10 June, 2021
 
 #### Chris:
+- connected the sensors to arduino but with power from the battery on the rover, struggled 
+- had issues with the multimeter and failed to remeber basic circuit design :(
+- tried to find ways to lower amps in the circuit
+- researched how to utilize the energy from the solar panel and convert it into usable energy
 
 #### Gabriel:
 - tested the Arduino with all the sensors connected with an external power source
@@ -187,6 +199,8 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Friday 11 June, 2021
 
 #### Chris:
+- used a parallel circuit to power the sensors so they all had equal voltage, but accidentaly fried some components so replacements had to be ordered
+- looked at sensor placement and also arduino/rasberry/etc configuration
 
 #### Gabriel:
 - got the sensors to be powered by the rover battery while in a parallel circuit - some are broken, sent list of parts to Timon
@@ -230,6 +244,7 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Saturday 12 June, 2021
 
 #### Chris:
+- got drunk to forget the dark demons of my past
 
 #### Gabriel:
 
@@ -255,7 +270,8 @@ Wrote unified script for operating all the sensors from the Arduino
 
 ## Progress: Sunday 13 June, 2021
 
-#### Chris:
+#### Chris: 
+- see saturday 12 June 2021
 
 #### Gabriel:
 
@@ -279,7 +295,10 @@ Wrote unified script for operating all the sensors from the Arduino
 
 ## Progress: Monday 14 June, 2021
 
-#### Chris:
+#### Chris: 
+- brainstormed on how to intergrate solar power into powering components, will probably only power the mechanism it needs to follow the sun
+- started learning fusion 360 so i can 3D pring sensor tray (hopefully)
+- soldered odd things for some people
 
 #### Gabriel:
 - got an overview of what the solar people have been working on 
@@ -315,7 +334,10 @@ Wrote unified script for operating all the sensors from the Arduino
 
 ## Progress: Tuesday 15 June, 2021
 
-#### Chris:
+#### Chris: 
+- found the parts needed for converting the solar power into usable energy and ordered them
+- finished some soldering things that i failed to finish on moday
+- drew up basic designs for sensor placement 
 
 #### Gabriel:
 - sent Timon list of necessary parts to order for building the circuit that harnesses the solar energy
@@ -345,6 +367,7 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Wednesday 16 June, 2021
 
 #### Chris:
+- had some personal things to take care of so i took the day off from the project
 
 #### Gabriel:
 - as the sensors had not yet arrived, I started working on the report
@@ -371,6 +394,9 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Thursday 17 June, 2021
 
 #### Chris:
+- New sensors arrived so gabe and I intergrated them into the circuit and updated the code so everything would work well (gabe did the heavy lifting for the code) 
+- finalized sensor placement and began drawing up a desing in fusion 360 for a tray that houses them
+- soldered some things for mark and xavier
 
 #### Gabriel:
 
