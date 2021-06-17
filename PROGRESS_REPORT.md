@@ -201,6 +201,7 @@ Wrote unified script for operating all the sensors from the Arduino
 - Experimented with different mutationRate functions
 - Added a new select function 
 - Worked on the fitness function
+- then threw myself from a bridge
 
 #### Lucas:
 - Tweaked the design of the inital solar panel bracket
@@ -235,7 +236,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Justus:
 
 #### Linus:
-
+- intoxicated myself
 #### Lucas:
 
 #### Marc:
@@ -328,6 +329,8 @@ Wrote unified script for operating all the sensors from the Arduino
 -some 3d printing
 
 #### Linus:
+- Debugged the sensor range implementation from last week 
+- reworked the network decisions and inputs
 
 #### Lucas:
 
@@ -352,6 +355,8 @@ Wrote unified script for operating all the sensors from the Arduino
 -started in fusion with LDR attachement bracket
 
 #### Linus:
+- Implemented genetic enharence as reproduction mechanism 
+- Reworked population control
 
 #### Lucas:
 
@@ -375,6 +380,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - outline for work on paper
 
 #### Linus:
+- Implemented exploration trade for rovers 
+- Cleaned up the code - looking to have a first good version by beginning of next week 
 
 #### Lucas:
 
