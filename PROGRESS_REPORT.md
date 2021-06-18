@@ -435,6 +435,10 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- got the Arduino output to be displayed on the Raspberry Pi
+- wanted to store each set of data in an array and display it live but had some hiccups with that -> will do on monday
+- new BMP280 thanks to Chris' incredible soldering job
+- wrote a new paragraph on the report
 
 #### Justus:
 
