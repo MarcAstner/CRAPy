@@ -122,10 +122,10 @@ Got the following sensors to work with Chris:
 Wrote unified script for operating all the sensors from the Arduino
 
 #### Justus: 
--research into solar panel tracking etc.
--solar movement mechanism
+- research into solar panel tracking etc.
+- solar movement mechanism
 - make list of needed parts for tracking sun
--work on flashing rasberry
+- work on flashing rasberry
 
 #### Linus:
 - Worked myself through Jonas' AI code
@@ -168,9 +168,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - started finding solutions for the circuit design to reduce current but still supply all the sensors with enough power
 
 #### Justus:
--worked from home 
--worked on curcuit diagram for solar tracking system
--worked on code for arduino solar tracker
+- worked from home 
+- worked on curcuit diagram for solar tracking system
+- worked on code for arduino solar tracker
 
 #### Linus:
 - Comunicated with Jonas about the code, the problems and solutions for the AI
@@ -358,6 +358,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Lucas:
 
 #### Marc:
+- together with Xavier; downloaded ros and set up pi for lidar
 
 #### Milan:
 
@@ -385,6 +386,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Lucas:
 
 #### Marc:
+- together with Xavier; troubleshoot ros/lidar functioning
+- looked into SLAM 
 
 #### Milan:
 
@@ -405,8 +408,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - designed and finished circuit diagram for the sensors
 
 #### Justus:
--fusion for LDR attachemetn bracket, finished
--measuring all the points for existing solar panel brackets to make it accurate and ready to print
+- fusion for LDR attachemetn bracket, finished
+- measuring all the points for existing solar panel brackets to make it accurate and ready to print
 - outline for work on paper
 
 #### Linus:
@@ -418,6 +421,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Lucas:
 
 #### Marc:
+- together with Xavier; integrated hector-SLAM!
+- looked at imu integration
 
 #### Milan:
 
