@@ -361,6 +361,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - together with Xavier; downloaded ros and set up pi for lidar
 
 #### Milan:
+- designed double helical gears in fusion for the mount of the solar panel
+- finished the design of the sample box
+- started brainstorming about a multitool head system of the arm with timon
 
 #### Timon: 
 
@@ -390,6 +393,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - looked into SLAM 
 
 #### Milan:
+- started assembling the first parts of the sample box
+- designed another rack and pinion systems for the multitool head system of the gripper arm
 
 #### Timon: 
 
@@ -425,6 +430,9 @@ Wrote unified script for operating all the sensors from the Arduino
 - looked at imu integration
 
 #### Milan:
+. started looking into bevel gears
+- designed a new system of the current gripper that is on the arm so it will fit on the universal tool that is suppo9sed to be on the arm in the end
+- constructed some bevel gears for the gripper to change the rotating motion by 90 degrees
 
 #### Timon: 
 
@@ -449,6 +457,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
+- almost completely finished the new gripper tool in fusion
+- did some final changes on the sample box with a drill in order to fit everything together. 1 part has to be reprinted with some more clearance
 
 #### Timon: 
 
