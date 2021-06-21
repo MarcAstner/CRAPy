@@ -519,6 +519,10 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- re-wired all the sensors together with chris
+- got the live graphing for the sensor data to work on the raspberry pi
+- the sensor data is now stored in 10 different arrays, which are updated every second
+- the sensors are now powered via the arduino which is powered by the raspberry
 
 #### Justus:
 
