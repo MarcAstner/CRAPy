@@ -253,6 +253,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 - intoxicated myself
 #### Lucas:
+- 
 
 #### Marc:
 - St.Pieters and chill
@@ -316,6 +317,7 @@ Wrote unified script for operating all the sensors from the Arduino
 - Now the rover is actually pretty decent at avoiding objects - implementing the sensor range once again sounds promissing 
 
 #### Lucas:
+- Further worked on the second rotating mechanism of the solar panel mount, which will utilize a 2-1 gear ratio as well as teeth surface onto which the larger gear can be fitted on --> facilitates 3d printing of the part
 
 #### Marc: 
 - looked more into interpolation; tried higher resolution for the camera --> pi overheated
@@ -356,6 +358,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - implemented speed control
 
 #### Lucas:
+- Measuring and calculating the 
+- More CAD design of the rotating axis + the joint with two ball bearing supporting the mast
 
 #### Marc:
 - together with Xavier; downloaded ros and set up pi for lidar
@@ -387,6 +391,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - Reworked population control
 
 #### Lucas:
+- Tweaked the design of the double helical gears with Milan
+- Starting brainstorming the design of the base of the solar panel mount
 
 #### Marc:
 - together with Xavier; troubleshoot ros/lidar functioning
@@ -424,6 +430,8 @@ Wrote unified script for operating all the sensors from the Arduino
 - forced left right motion 
 
 #### Lucas:
+- Further working on the base of the solar panel mount. Due to shape of the part, the gear section of the base will be bolted onto the rest.
+- Tweaked the design in order to add the second motor, which rotates the smaller gear.
 
 #### Marc:
 - together with Xavier; integrated hector-SLAM!
@@ -453,6 +461,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 
 #### Lucas:
+- Added screw holes onto the bottom of the solar panle mount base in order to attach it to the plexiglass on the rover
+- Final tweaks (filleting,etc...) to the design before the 3D printing of many this weekend
 
 #### Marc:
 
@@ -514,7 +524,8 @@ Wrote unified script for operating all the sensors from the Arduino
 
 #### Linus:
 
-#### Lucas:
+#### Lucas: 
+- Tripping in Amsterdam
 
 #### Marc:
 
