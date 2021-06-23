@@ -544,6 +544,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- tested and included a new IMU sensor into the arduino code
+- started to figure out how to get the charging circuit to work
 
 #### Justus:
 
@@ -564,6 +566,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- took a while to get the DC-DC booster to work -> the internal wiring seems to be wrongly noted on the board
+- tried to get the new GPS sensor to work, didn't succeed
+- read over Lucas' contribution to the report and made suggestions
 
 #### Justus:
 
