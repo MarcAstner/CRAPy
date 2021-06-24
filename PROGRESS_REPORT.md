@@ -358,7 +358,7 @@ Wrote unified script for operating all the sensors from the Arduino
 - implemented speed control
 
 #### Lucas:
-- Measuring and calculating the 
+- Measuring/calculating the size of the joints 
 - More CAD design of the rotating axis + the joint with two ball bearing supporting the mast
 
 #### Marc:
@@ -392,7 +392,7 @@ Wrote unified script for operating all the sensors from the Arduino
 
 #### Lucas:
 - Tweaked the design of the double helical gears with Milan
-- Starting brainstorming the design of the base of the solar panel mount
+- Starting brainstorming/sketching the design of the base of the solar panel mount
 
 #### Marc:
 - together with Xavier; troubleshoot ros/lidar functioning
@@ -599,7 +599,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Lucas:
  - Finished assembling the solar panel mount and fitted the solar panel with it
  - Fitted the contraption onto plexiglass
- - Tested the Arduino code with the tilting mechanisms
+ - Reviewed  and tweaked the report thanks to the comments left by Gabriel
 #### Marc:
 
 #### Milan:
