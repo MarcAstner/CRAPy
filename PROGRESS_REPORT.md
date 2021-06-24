@@ -552,6 +552,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 
 #### Lucas:
+ - Added onto the solar panel section of the report
 
 #### Marc:
 
@@ -575,7 +576,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 
 #### Lucas:
-
+ - Cleaned and tested the parts of the solar panel mount
+ - Started assembling the mount  
 #### Marc:
 
 #### Milan:
@@ -595,7 +597,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 
 #### Lucas:
-
+ - Finished assembling the solar panel mount and fitted the solar panel with it
+ - Fitted the contraption onto plexiglass
+ - Tested the Arduino code with the tilting mechanisms
 #### Marc:
 
 #### Milan:
