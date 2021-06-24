@@ -490,6 +490,7 @@ Wrote unified script for operating all the sensors from the Arduino
 
 #### Milan:
 
+
 #### Timon: 
 
 #### Xavier:
@@ -534,6 +535,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
+- finished the sample box
+- optimized ther multitool gripper head
 
 #### Timon: 
 
@@ -557,6 +560,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
+- designed a drill for the multitool gripper head
+- started brainstomring about a shovel
 
 #### Timon: 
 
@@ -581,7 +586,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
-
+- finished the design of a shovel in fusion
+- final assembly of the gripper
+- cable management on the entire arm
 #### Timon: 
 
 #### Xavier:
@@ -606,7 +613,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Marc:
 
 #### Milan:
-
+- finished the assembly of the drill for the mutli tool head
+- designed a differetn mount for the lidar so the infrared camera can turn in all direnctions
+- 
 #### Timon: 
 
 #### Xavier:
