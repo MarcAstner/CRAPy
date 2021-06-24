@@ -591,6 +591,9 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- once again tried to get the GPS module to work, it does work with the proprietary ublox software but not with the Arduino, will try with raspberry tomorrow
+- updated and cleaned up sensor script with now all 5 distance sensors
+- fed the distance sensor data into an always-updating array on the raspberry so that linus can make use of that data for his AI
 
 #### Justus:
 
