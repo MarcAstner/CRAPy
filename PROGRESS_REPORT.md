@@ -372,6 +372,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 
 #### Xavier:
+- Downloaded ROS and started configuring pi for the lidar with Marc
 
 ## Progress: Wednesday 16 June, 2021
 
@@ -405,6 +406,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 
 #### Xavier:
+- Troubleshooting the lidar on the raspberry
+- Looked into methods to perform slam with Marc
 
 ## Progress: Thursday 17 June, 2021
 
@@ -444,7 +447,9 @@ Wrote unified script for operating all the sensors from the Arduino
 
 #### Timon: 
 
-#### Xavier:
+#### Xavier
+- HEctor Slam now works!
+- Started research on combining IMU into slam.
 
 ## Progress: Friday 18 June, 2021
 
@@ -541,6 +546,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 
 #### Xavier:
+- looking at how to make multiple machines communicate via ROS
+- 
 
 ## Progress: Tuesday 22 June, 2021
 
@@ -566,6 +573,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 
 #### Xavier:
+-
 
 ## Progress: Wednesday 23 June, 2021
 
@@ -592,6 +600,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 
 #### Xavier:
+- Sick
 
 ## Progress: Thursday 24 June, 2021
 
@@ -619,6 +628,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Timon: 
 
 #### Xavier:
+-Sick
 
 ## Progress: Friday 25 June, 2021
 
