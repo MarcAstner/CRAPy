@@ -145,6 +145,8 @@ def armSend():
     val5 = request.form["Pitch"]
     val6 = request.form["Gripper"]
     val7 = request.form["Lock"]
+    val8 = request.form["Turnbox"]
+    val9 = request.form["Move_Sensor"]
     
     #Renormalize values from 2-15.5 to degree
     nval1 = float(val1)*10.5/270+2
@@ -154,6 +156,9 @@ def armSend():
     nval5 = float(val5)*10.5/270+2
     nval6 = float(val6)*10.5/270+2
     nval7 = float(val7)*10.5/270+2
+    nval8 = float(val8)*10.5/270+2
+    nval9 = float(val9)*10.5/270+2
+    
     # Change duty cycle
     prot.ChangeDutyCycle(float(nval1))
     pa1.ChangeDutyCycle(float(nval2))
@@ -162,12 +167,14 @@ def armSend():
     ppitch.ChangeDutyCycle(float(nval5))
     pgrip.ChangeDutyCycle(float(nval6))
     plock.ChangeDutyCycle(float(nval7))
+    pturnbox.ChangeDutyCycle(float(nval8))
+    pmove_sensor.ChangeDutyCycle(float(nval9))
     
     # Give servo some time to move
     sleep(1)
     # Pause the servo
     
-    return render_template('roboarm.html', lastval1=val1, lastval2=val2, lastval3=val3, lastval4=val4, lastval5=val5, lastval6=val6, lastval7=val7)
+    return render_template('roboarm.html', lastval1=val1, lastval2=val2, lastval3=val3, lastval4=val4, lastval5=val5, lastval6=val6, lastval7=val7, lastval8=val8, lastval9=val9)
 
 @app.route('/stop_arm')
 def stopArm():
@@ -185,7 +192,7 @@ def stopArm():
     ppitch.ChangeDutyCycle(0)
     pgrip.ChangeDutyCycle(0)
     
-    return render_template('roboarm.html',lastval1=Rotation, lastval2=Arm_1, lastval3=Arm_2, lastval4=Roll, lastval5=Pitch, lastval6=Gripper)
+    return render_template('roboarm.html',lastval1=Rotation, lastval2=Arm_1, lastval3=Arm_2, lastval4=Roll, lastval5=Pitch, lastval6=Gripper, lastval7=lock, lastval8=Turnbox, lastval9=Move_Sensor)
 
 @app.route('/lock_arm')
 def lockArm():
@@ -195,6 +202,22 @@ def lockArm():
 def lockArm():
     Lock = 0
 
+@app.route('/open_samplebox')
+def lockArm():
+    Lock = 180
+    
+@app.route('/close_samplebox')
+def lockArm():
+    Lock = 90
+    
+@app.route('/insert_sensor')
+def lockArm():
+    Lock = 180
+    
+@app.route('/take_sensor_out')
+def lockArm():
+    Lock = 0
+        
 ############################ SENSORS #########################################
 @app.route('/sensors')
 def sensors():
