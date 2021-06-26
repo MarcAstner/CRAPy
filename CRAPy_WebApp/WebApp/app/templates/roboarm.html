@@ -12,14 +12,20 @@
             <p>Arm 2 <input type="range" min="0" max="270" name="Arm_2" id="myRange3" value={{lastval3}}> </p>
             <p>Angle: <span id="ival3"></span></p><br>
             
-            <p>Roll <input type="range" min="0" max="180" name="Roll" id="myRange4" value={{lastval4}}> </p>
+            <p>Roll <input type="range" min="0" max="270" name="Roll" id="myRange4" value={{lastval4}}> </p>
             <p>Angle: <span id="ival4"></span></p><br>
             
-            <p>Pitch <input type="range" min="0" max="180" name="Pitch" id="myRange5" value={{lastval5}}> </p>
+            <p>Pitch <input type="range" min="0" max="270" name="Pitch" id="myRange5" value={{lastval5}}> </p>
             <p>Angle: <span id="ival5"></span></p><br>
             
-            <p>Gripper <input type="range" min="0" max="180" name="Gripper" id="myRange6" value={{lastval6}}> </p>
+            <p>Gripper <input type="range" min="0" max="270" name="Gripper" id="myRange6" value={{lastval6}}> </p>
             <p>Angle: <span id="ival6"></span></p><br>
+            
+        <form method="GET" action="/lock_arm" id="form2">
+            <button form="form2" type="button" class="btn." form>lock the arm</button>
+
+        <form method="GET" action="/unlock_arm" id="form3">
+              <button form="form3" type="button" class="btn." form>unlock the arm</button>
 
         </form>
         
