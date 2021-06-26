@@ -21,10 +21,10 @@
             <p>Gripper <input type="range" min="0" max="270" name="Gripper" id="myRange6" value={{lastval6}}> </p>
             <p>Angle: <span id="ival6"></span></p><br>
             
-        <form method="GET" action="/lock_arm" id="form2">
+        <form method="POST" action="/lock_arm" id="form2">
             <button form="form2" type="button" class="btn." form>lock the arm</button>
 
-        <form method="GET" action="/unlock_arm" id="form3">
+        <form method="POST" action="/unlock_arm" id="form3">
               <button form="form3" type="button" class="btn." form>unlock the arm</button>
 
         </form>
