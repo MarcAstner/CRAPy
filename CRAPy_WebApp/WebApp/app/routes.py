@@ -144,6 +144,7 @@ def armSend():
     val4 = request.form["Roll"]
     val5 = request.form["Pitch"]
     val6 = request.form["Gripper"]
+    val7 = request.form["Lock"]
     
     #Renormalize values from 2-15.5 to degree
     nval1 = float(val1)*10.5/270+2
@@ -152,7 +153,7 @@ def armSend():
     nval4 = float(val4)*10.5/270+2
     nval5 = float(val5)*10.5/270+2
     nval6 = float(val6)*10.5/270+2
-    
+    nval7 = float(val7)*10.5/270+2
     # Change duty cycle
     prot.ChangeDutyCycle(float(nval1))
     pa1.ChangeDutyCycle(float(nval2))
@@ -160,12 +161,13 @@ def armSend():
     proll.ChangeDutyCycle(float(nval4))
     ppitch.ChangeDutyCycle(float(nval5))
     pgrip.ChangeDutyCycle(float(nval6))
+    plock.ChangeDutyCycle(float(nval7))
     
     # Give servo some time to move
     sleep(1)
     # Pause the servo
     
-    return render_template('roboarm.html', lastval1=val1, lastval2=val2, lastval3=val3, lastval4=val4, lastval5=val5, lastval6=val6)
+    return render_template('roboarm.html', lastval1=val1, lastval2=val2, lastval3=val3, lastval4=val4, lastval5=val5, lastval6=val6, lastval7=val7)
 
 @app.route('/stop_arm')
 def stopArm():
@@ -185,6 +187,13 @@ def stopArm():
     
     return render_template('roboarm.html',lastval1=Rotation, lastval2=Arm_1, lastval3=Arm_2, lastval4=Roll, lastval5=Pitch, lastval6=Gripper)
 
+@app.route('/lock_arm')
+def lockArm():
+    Lock = 110
+   
+@app.route('/unlock_arm')
+def lockArm():
+    Lock = 0
 
 ############################ SENSORS #########################################
 @app.route('/sensors')
