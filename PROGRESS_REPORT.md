@@ -635,6 +635,7 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- got the solar panel charging circuit to work with Chris
 
 #### Justus:
 
@@ -655,6 +656,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Chris:
 
 #### Gabriel:
+- cleaned up the code so future-project can understand it better
+- installed the Arduino, sensor board and distance sensors onto the rover
 
 #### Justus:
 
