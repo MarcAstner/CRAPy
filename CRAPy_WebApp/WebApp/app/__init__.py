@@ -30,7 +30,10 @@ servo_a1 = 13
 servo_a2 = 6
 servo_roll = 19
 servo_pitch = 26
-servo_grip = 21
+servo_grip = 20
+servo_lock = 21
+servo_box = 12
+servo_sensor = 16
 
 GPIO.setmode(GPIO.BCM)      # We are using the BCM pin numbering
 # Declaring Servo Pins as output pins
@@ -40,6 +43,9 @@ GPIO.setup(servo_a2, GPIO.OUT)
 GPIO.setup(servo_roll, GPIO.OUT)
 GPIO.setup(servo_pitch, GPIO.OUT)
 GPIO.setup(servo_grip, GPIO.OUT)
+GPIO.setup(servo_lock, GPIO.OUT)
+GPIO.setup(servo_box, GPIO.OUT)
+GPIO.setup(servo_sensor, GPIO.OUT)
 
 # Created PWM channels at 50Hz frequency
 prot = GPIO.PWM(servo_rot, 50)
@@ -48,6 +54,10 @@ pa2 = GPIO.PWM(servo_a2, 50)
 proll = GPIO.PWM(servo_roll, 50)
 ppitch = GPIO.PWM(servo_pitch, 50)
 pgrip = GPIO.PWM(servo_grip, 50)
+plock = GPIO.PWM(servo_lock, 50)
+pturnbox = GPIO.PWM(servo_box, 50)
+pmove_sensor = GPIO.PWM(servo_sensor, 50)
+
 
 
 # Initial duty cycle
@@ -57,6 +67,9 @@ pa2.start(0)
 proll.start(0)
 ppitch.start(0)
 pgrip.start(0)
+plock.start(0)
+pturnbox.start(0)
+pmove_sensor.start(0)
 
 #########################################################
 
