@@ -642,6 +642,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 
 #### Lucas:
+- Tested Justus code for the solar panel motors & photosensors --> shy solar panel 
+- Designed a solar panel electronics box on fusion, holds a battery and multiple chips
 
 #### Marc:
 
@@ -664,6 +666,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 
 #### Lucas:
+- Reviewed more comments left on report
+- Tweaked the electronics box, which won't get used :(
 
 #### Marc:
 
@@ -684,6 +688,8 @@ Wrote unified script for operating all the sensors from the Arduino
 #### Linus:
 
 #### Lucas:
+- Removed the plexiglass from solar panel mount
+- Marked it for cutting/trimming in order to fit differently onto the rover
 
 #### Marc:
 
