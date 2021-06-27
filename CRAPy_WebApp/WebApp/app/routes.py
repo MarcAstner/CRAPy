@@ -197,27 +197,39 @@ def stopArm():
 @app.route('/lock_arm')
 def lockArm():
     Lock = 110
-   
+    
+    plock.ChangeDutyCycle(0)
+    
 @app.route('/unlock_arm')
 def lockArm():
     Lock = 0
-
+    
+    plock.ChangeDutyCycle(0)
+    
 @app.route('/open_samplebox')
 def lockArm():
     Lock = 180
+    
+    pturnbox.ChangeDutyCycle(0)
     
 @app.route('/close_samplebox')
 def lockArm():
     Lock = 90
     
+    pturnbox.ChangeDutyCycle(0)
+    
 @app.route('/insert_sensor')
 def lockArm():
     Lock = 180
     
+    pmove_sensor.ChangeDutyCycle(0)
+    
 @app.route('/take_sensor_out')
 def lockArm():
     Lock = 0
-        
+    
+    pmove_sensor.ChangeDutyCycle(0)
+
 ############################ SENSORS #########################################
 @app.route('/sensors')
 def sensors():
