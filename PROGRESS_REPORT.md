@@ -453,7 +453,10 @@ Wrote unified script for operating all the sensors from the Arduino
 
 ## Progress: Friday 18 June, 2021
 
-#### Chris:
+#### Chris: 
+- soldered a bunch of stuff 
+- made changes to sensor baseplate should be printed over the weekend
+- desinged clips that can be screwed on to any other build in fusion 360
 
 #### Gabriel:
 - got the Arduino output to be displayed on the Raspberry Pi
@@ -522,7 +525,10 @@ Wrote unified script for operating all the sensors from the Arduino
 
 ## Progress: Monday 21 June, 2021
 
-#### Chris:
+#### Chris: 
+- gabe and i rewired all of our sensors
+- began cable management
+- tried to get the charging system to work with parts we had, didnt manage 
 
 #### Gabriel:
 - re-wired all the sensors together with chris
@@ -552,6 +558,9 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Tuesday 22 June, 2021
 
 #### Chris:
+- looked at the charging system with gabe
+- sensor plate was printed but i made a mistake in original design, had to adjust it in fusion 360
+- clips also had to be adjusted 
 
 #### Gabriel:
 - tested and included a new IMU sensor into the arduino code
@@ -578,6 +587,8 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Wednesday 23 June, 2021
 
 #### Chris:
+- made progress on charging circuit
+- worked with timon on using a second battery to power arm
 
 #### Gabriel:
 - took a while to get the DC-DC booster to work -> the internal wiring seems to be wrongly noted on the board
@@ -605,6 +616,8 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Thursday 24 June, 2021
 
 #### Chris:
+- sensor baseplate was printed so i attached all the sensors and cut the wires to appropirate sizes
+- had a final print for the clips becasue i messed them up again
 
 #### Gabriel:
 - once again tried to get the GPS module to work, it does work with the proprietary ublox software but not with the Arduino, will try with raspberry tomorrow
@@ -633,6 +646,8 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Friday 25 June, 2021
 
 #### Chris:
+-see gabe
+-also cut and shortened a lot of wires that needed it to make everything look neater
 
 #### Gabriel:
 - got the solar panel charging circuit to work with Chris
@@ -656,6 +671,9 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Saturday 26 June, 2021
 
 #### Chris:
+- Cable managment (sexy black tape)
+- finally attached sensor plate and arduino to the rover and wired all the sensors up
+- began wiring up the distance sensors
 
 #### Gabriel:
 - cleaned up the code so future-project can understand it better
@@ -680,6 +698,7 @@ Wrote unified script for operating all the sensors from the Arduino
 ## Progress: Sunday 27 June, 2021
 
 #### Chris:
+-recovered from effects of vaccine
 
 #### Gabriel:
 
