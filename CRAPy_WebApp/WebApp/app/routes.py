@@ -201,31 +201,31 @@ def lockArm():
     plock.ChangeDutyCycle(0)
     
 @app.route('/unlock_arm')
-def lockArm():
+def unlock_Arm():
     Lock = 0
     
     plock.ChangeDutyCycle(0)
     
 @app.route('/open_samplebox')
-def lockArm():
+def open_samplebox():
     Lock = 180
     
     pturnbox.ChangeDutyCycle(0)
     
 @app.route('/close_samplebox')
-def lockArm():
+def close_samplebox():
     Lock = 90
     
     pturnbox.ChangeDutyCycle(0)
     
 @app.route('/insert_sensor')
-def lockArm():
+def insert_sensor():
     Lock = 180
     
     pmove_sensor.ChangeDutyCycle(0)
     
 @app.route('/take_sensor_out')
-def lockArm():
+def take_sensor_out():
     Lock = 0
     
     pmove_sensor.ChangeDutyCycle(0)
